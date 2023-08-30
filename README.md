@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dewmi Umayangana</h1>
-<h3 align="center">Undergraduate | UI designer</h3>
+<h3 align="center">Undergraduate in NSBM Green University | UI designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dewmiumayangana&label=Profile%20views&color=0e75b6&style=flat" alt="dewmiumayangana" /> </p>
 
 - 🌱 I’m currently learning **Bsc.(Hons)Software Engineering**
 
 - 📫 How to reach me **duthathsarani@students.nsbm.ac.lk**
+
+- <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
